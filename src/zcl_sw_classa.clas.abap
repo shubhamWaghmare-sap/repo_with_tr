@@ -1,0 +1,18 @@
+CLASS zcl_sw_classa DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+    METHODS test_method.
+ENDCLASS.
+
+
+
+CLASS zcl_sw_classa IMPLEMENTATION.
+   METHOD test_method.
+      "test method
+   ENDMETHOD.
+ENDCLASS.
