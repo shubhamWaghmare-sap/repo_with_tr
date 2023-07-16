@@ -1,0 +1,8 @@
+@EndUserText.label: 'type for CDS'
+define type ZCDS_TYPE_SW: abap.int1 enum { 
+  day        = initial;
+  week       = 1;
+  month      = 2;
+  quarter    = 3;
+  year       = 4;
+}

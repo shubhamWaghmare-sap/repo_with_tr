@@ -1,0 +1,16 @@
+CLASS zcl_test_class_sw DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+   "Class is modified
+ENDCLASS.
+
+
+
+CLASS zcl_test_class_sw IMPLEMENTATION.
+
+ENDCLASS.

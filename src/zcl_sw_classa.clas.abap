@@ -7,11 +7,14 @@ CLASS zcl_sw_classa DEFINITION
   PROTECTED SECTION.
   PRIVATE SECTION.
     METHODS test_method.
+    "local
 ENDCLASS.
 
 
 
-CLASS zcl_sw_classa IMPLEMENTATION.
+CLASS ZCL_SW_CLASSA IMPLEMENTATION.
+
+
    METHOD test_method.
       "test method
    ENDMETHOD.
