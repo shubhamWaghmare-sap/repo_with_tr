@@ -16,6 +16,7 @@
     <item>/azure-pipelines.yml</item>
     <item>/src/ZCL_AD911_ABAP_ANY_LIKE*</item>    
     <item>/src/cl_sw_classb*</item>    
+    <item>/src/zcl_sw_classa*</item>    
    </IGNORE>
   </DATA>
  </asx:values>
