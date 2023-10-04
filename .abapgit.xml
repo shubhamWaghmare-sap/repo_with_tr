@@ -15,6 +15,7 @@
     <item>/abaplint.json</item>
     <item>/azure-pipelines.yml</item>
     <item>/src/ZCL_AD911_ABAP_ANY_LIKE*</item>    
+    <item>/src/cl_sw_classb*</item>    
    </IGNORE>
   </DATA>
  </asx:values>
