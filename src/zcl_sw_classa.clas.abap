@@ -1,21 +1,13 @@
-CLASS zcl_sw_classa DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_SW_CLASSA definition
+  public
+  create private .
 
-  PUBLIC SECTION.
-  PROTECTED SECTION.
-  PRIVATE SECTION.
-    METHODS test_method.
-    "local
+public section.
+protected section.
+private section.
 ENDCLASS.
 
 
 
 CLASS ZCL_SW_CLASSA IMPLEMENTATION.
-
-
-   METHOD test_method.
-      "test method
-   ENDMETHOD.
 ENDCLASS.
