@@ -15,6 +15,6 @@ CLASS ZCL_SW_CLASSA IMPLEMENTATION.
 
 
    METHOD test_method.
-      "test method
+      "Modified in Remote
    ENDMETHOD.
 ENDCLASS.
