@@ -1,13 +1,16 @@
-class ZCL_TEST_CLASS_SW definition
-  public
-  create private .
+CLASS zcl_test_class_sw DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+   "Class is modified
 ENDCLASS.
 
 
 
-CLASS ZCL_TEST_CLASS_SW IMPLEMENTATION.
+CLASS zcl_test_class_sw IMPLEMENTATION.
+
 ENDCLASS.
