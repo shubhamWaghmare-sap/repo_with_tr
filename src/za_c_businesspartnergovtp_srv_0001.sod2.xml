@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOD2" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SOD2>
+    <METADATA>
+     <NAME>ZA_C_BUSINESSPARTNERGOVTP_SRV_0001</NAME>
+     <TYPE>SOD2</TYPE>
+     <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
+     <LANGUAGE>EN</LANGUAGE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+    </METADATA>
+    <CONTENT>
+     <ID>ZA_C_BUSINESSPARTNERGOVTP_SRV_0001</ID>
+     <PACKAGE_ID>ZAPI_PACKAGE_TEST1</PACKAGE_ID>
+     <OBJECT_TYPE>IWSV</OBJECT_TYPE>
+     <OBJECT_ID>C_BUSINESSPARTNERGOVTP_SRV         0001</OBJECT_ID>
+     <CREATE_USER>CB9980000650</CREATE_USER>
+     <CREATE_TIMESTAMP>20240704173832</CREATE_TIMESTAMP>
+     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    </CONTENT>
+   </SOD2>
+  </asx:values>
+ </asx:abap>
+</abapGit>
