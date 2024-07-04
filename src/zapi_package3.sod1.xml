@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOD1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SOD1>
+    <METADATA>
+     <NAME>ZAPI_PACKAGE3</NAME>
+     <TYPE>SOD1</TYPE>
+     <DESCRIPTION>API Package 3</DESCRIPTION>
+     <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
+     <LANGUAGE>EN</LANGUAGE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+    </METADATA>
+    <CONTENT>
+     <ID>ZAPI_PACKAGE3</ID>
+     <ID_ALIAS>AA</ID_ALIAS>
+     <NAMESPACE>AA</NAMESPACE>
+     <ABBREVIATION>AA</ABBREVIATION>
+     <TYPE>1</TYPE>
+     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    </CONTENT>
+   </SOD1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
